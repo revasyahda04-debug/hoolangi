@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "sentence": "ذَهَبَ أَحْمَدُ إِلَى الْمَدْرَسَةِ",
+    "words": ["ذَهَبَ", "أَحْمَدُ", "إِلَى", "الْمَدْرَسَةِ"],
+    "translation": "Ahmad pergi ke sekolah."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "sentence": "قَرَأَ الطَّالِبُ الْكِتَابَ فِي الْمَكْتَبَةِ",
+    "words": ["قَرَأَ", "الطَّالِبُ", "الْكِتَابَ", "فِي", "الْمَكْتَبَةِ"],
+    "translation": "Siswa membaca buku di perpustakaan."
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "sentence": "يَشْرَبُ عَلِيٌّ الْمَاءَ فِي الْفَصْلِ",
+    "words": ["يَشْرَبُ", "عَلِيٌّ", "الْمَاءَ", "فِي", "الْفَصْلِ"],
+    "translation": "Ali minum air di kelas."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "sentence": "تَكْتُبُ فَاطِمَةُ الدَّرْسَ فِي الدَّفْتَرِ",
+    "words": ["تَكْتُبُ", "فَاطِمَةُ", "الدَّرْسَ", "فِي", "الدَّفْتَرِ"],
+    "translation": "Fatimah menulis pelajaran di buku tulis."
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "sentence": "يَلْعَبُ الْوَلَدُ الْكُرَةَ فِي الْمَلْعَبِ",
+    "words": ["يَلْعَبُ", "الْوَلَدُ", "الْكُرَةَ", "فِي", "الْمَلْعَبِ"],
+    "translation": "Anak laki-laki bermain bola di lapangan."
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "sentence": "تَذْهَبُ مَرْيَمُ إِلَى السُّوقِ صَبَاحًا",
+    "words": ["تَذْهَبُ", "مَرْيَمُ", "إِلَى", "السُّوقِ", "صَبَاحًا"],
+    "translation": "Maryam pergi ke pasar pada pagi hari."
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "sentence": "يَأْكُلُ خَالِدٌ الْخُبْزَ مَعَ الْجُبْنِ",
+    "words": ["يَأْكُلُ", "خَالِدٌ", "الْخُبْزَ", "مَعَ", "الْجُبْنِ"],
+    "translation": "Khalid makan roti dengan keju."
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "sentence": "تَجْلِسُ الْمُعَلِّمَةُ أَمَامَ الطُّلَّابِ",
+    "words": ["تَجْلِسُ", "الْمُعَلِّمَةُ", "أَمَامَ", "الطُّلَّابِ"],
+    "translation": "Guru perempuan duduk di depan para siswa."
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "sentence": "يَفْتَحُ الْمُدِيرُ بَابَ الْمَدْرَسَةِ",
+    "words": ["يَفْتَحُ", "الْمُدِيرُ", "بَابَ", "الْمَدْرَسَةِ"],
+    "translation": "Kepala sekolah membuka pintu sekolah."
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "sentence": "تَغْسِلُ الْأُمُّ الْمَلَابِسَ فِي الْبَيْتِ",
+    "words": ["تَغْسِلُ", "الْأُمُّ", "الْمَلَابِسَ", "فِي", "الْبَيْتِ"],
+    "translation": "Ibu mencuci pakaian di rumah."
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "sentence": "يَسْتَيْقِظُ حَسَنٌ مِنَ النَّوْمِ مُبَكِّرًا",
+    "words": ["يَسْتَيْقِظُ", "حَسَنٌ", "مِنَ", "النَّوْمِ", "مُبَكِّرًا"],
+    "translation": "Hasan bangun dari tidur lebih awal."
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "sentence": "يُسَاعِدُ الْأَخُ أُخْتَهُ فِي الْوَاجِبِ",
+    "words": ["يُسَاعِدُ", "الْأَخُ", "أُخْتَهُ", "فِي", "الْوَاجِبِ"],
+    "translation": "Saudara laki-laki membantu saudara perempuannya mengerjakan tugas."
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "sentence": "يَرْكَبُ الطَّالِبُ الْحَافِلَةَ إِلَى الْجَامِعَةِ",
+    "words": ["يَرْكَبُ", "الطَّالِبُ", "الْحَافِلَةَ", "إِلَى", "الْجَامِعَةِ"],
+    "translation": "Mahasiswa naik bus menuju universitas."
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "sentence": "يَشْتَرِي الْأَبُ فَاكِهَةً مِنَ السُّوقِ",
+    "words": ["يَشْتَرِي", "الْأَبُ", "فَاكِهَةً", "مِنَ", "السُّوقِ"],
+    "translation": "Ayah membeli buah dari pasar."
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "sentence": "تُحِبُّ سَلْمَى قِرَاءَةَ الْقِصَصِ الْقَصِيرَةِ",
+    "words": ["تُحِبُّ", "سَلْمَى", "قِرَاءَةَ", "الْقِصَصِ", "الْقَصِيرَةِ"],
+    "translation": "Salma suka membaca cerita pendek."
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "sentence": "يَسْمَعُ الطِّفْلُ صَوْتَ الْعُصْفُورِ فِي الْحَدِيقَةِ",
+    "words": ["يَسْمَعُ", "الطِّفْلُ", "صَوْتَ", "الْعُصْفُورِ", "فِي", "الْحَدِيقَةِ"],
+    "translation": "Anak kecil mendengar suara burung di taman."
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "sentence": "يَجْتَمِعُ الْأَصْدِقَاءُ بَعْدَ الدِّرَاسَةِ فِي الْمَقْهَى",
+    "words": ["يَجْتَمِعُ", "الْأَصْدِقَاءُ", "بَعْدَ", "الدِّرَاسَةِ", "فِي", "الْمَقْهَى"],
+    "translation": "Teman-teman berkumpul setelah belajar di kafe."
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "sentence": "تُرَتِّبُ زَيْنَبُ الْكُتُبَ فَوْقَ الْمَكْتَبِ",
+    "words": ["تُرَتِّبُ", "زَيْنَبُ", "الْكُتُبَ", "فَوْقَ", "الْمَكْتَبِ"],
+    "translation": "Zainab menata buku-buku di atas meja."
+  },
+  {
+    "id": 19,
+    "level": 2,
+    "sentence": "يَكْتُبُ الْمُعَلِّمُ سُؤَالًا عَلَى السَّبُّورَةِ",
+    "words": ["يَكْتُبُ", "الْمُعَلِّمُ", "سُؤَالًا", "عَلَى", "السَّبُّورَةِ"],
+    "translation": "Guru menulis sebuah pertanyaan di papan tulis."
+  },
+  {
+    "id": 20,
+    "level": 2,
+    "sentence": "يَرْجِعُ الْمُسَافِرُ إِلَى بَيْتِهِ فِي الْمَسَاءِ",
+    "words": ["يَرْجِعُ", "الْمُسَافِرُ", "إِلَى", "بَيْتِهِ", "فِي", "الْمَسَاءِ"],
+    "translation": "Pelancong kembali ke rumahnya pada sore hari."
+  }
+]
